@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Ryan Johnson
+title: Projects
 ---
 
-# Publications
+# Projects
 
-- [ChemGen paper (2025)](pdfs/johnson2025_chemgen.pdf)
-- [Detonation paper (2024)](pdfs/johnson2024_detonation.pdf)
+- [ChemGen](https://github.com/drryjoh/chemgen) Chemistry code generation for computational physics
+- [CodeJeNN](https://github.com/jarcities/CodeJeNN) Neural Net code generator for embedding inference in computational physics
+- [HomeHeat)](https://github.com/drryjoh/homerheat) Large data project analyzing homeruns in major league baseball under weather effects
 
