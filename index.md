@@ -5,10 +5,10 @@ title: Ryan Johnson
 
 # Publications
 
-- [pdf](pdfs/johnson2025_chemgen.pdf) Ryan F. Johnson, Eric J. Ching, Andrew D. Kercher, Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Hai Wang “ChemGen: Chemistry Reaction Code Generation for Computational Physics” Computer Physics Communication, under review August, 2025
+- [pdf](pdfs/chemgen.pdf) Ryan F. Johnson, Eric J. Ching, Andrew D. Kercher, Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Hai Wang “ChemGen: Chemistry Reaction Code Generation for Computational Physics” Computer Physics Communication, under review August, 2025
 Contribution: Lead author, conceptualization, writing, and methodology
 
--[pdf](pdfs/johnson2025_chemgen.pdf) Jay Arcities, Ryan F. Johnson, Eric J. Ching, Kamal Viswanath, Joshua E. Lipman, Ethan S. Genter, Wedni Dong, Hai Wang “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
+- [pdf](pdfs/johnson2025_chemgen.pdf) Jay Arcities, Ryan F. Johnson, Eric J. Ching, Kamal Viswanath, Joshua E. Lipman, Ethan S. Genter, Wedni Dong, Hai Wang “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
 Contribution: Resource management (PI of project), mentorship of team, conceptualization, writing, and methodology
 
 - [pdf](pdfs/johnson2025_chemgen.pdf)Yue Zhang, Wendi Dong, Nobilli Andrea, Ryan F. Johnson, Gregory P. Smith, Hai Wang,  “Foundational Fuel Chemistry Model 2 — Can data assimilation yield useful insights in reaction rate constants?” Combustion and Flame, under review August, 2025
