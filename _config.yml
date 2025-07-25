@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : ryan_johnson_phd
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ryan-f-johnson-b6094325
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -243,13 +243,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -268,24 +261,30 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+  ## _portfolio
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
+  ## _talks
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
+  ## _pages
+  #- scope:
+  #    path: ""
+  #    type: pages
+  #  values:
+  #    layout: single
+  #    author_profile: true
 
 # Sass/SCSS
 sass:
