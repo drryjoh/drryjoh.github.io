@@ -1,96 +1,75 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
-
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-# Getting Started
+# My publications
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+- [pdf](pdfs/chemgen.pdf) **Ryan F. Johnson**, Eric J. Ching, Andrew D. Kercher, Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Hai Wang “ChemGen: Chemistry Reaction Code Generation for Computational Physics” Computer Physics Communication, under review August, 2025
 
-See more info at https://academicpages.github.io/
+Contribution: Lead author, conceptualization, writing, and methodology
 
-## Running locally
+- [pdf](pdfs/chemgen.pdf) Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Wendi Dong, Eric J. Ching, Kamal Viswanath, Hai Wang, **Ryan F. Johnson**, “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+Contribution: Resource management (PI of project), mentorship of team, conceptualization, writing, and methodology
 
-1. Clone the repository and made updates as detailed above.
+- [pdf](pdfs/dong_ffcm2.pdf)Yue Zhang, Wendi Dong, Nobilli Andrea, **Ryan F. Johnson**, Gregory P. Smith, Hai Wang,  “Foundational Fuel Chemistry Model 2 — Can data assimilation yield useful insights in reaction rate constants?” Combustion and Flame, under review August, 2025
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+Contribution: Co-mentorship of team and writing
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+- [pdf](pdfs/ching_JCP_viscous.pdf) E. J. Ching, **R. F. Johnson**, S. Burrows, J. Higgs, A. D. Kercher, “Positivity-preserving and entropy-bounded discontinuous Galerkin method for the chemically reacting, compressible Navier-Stokes equations,” Journal of Computational Physics, 113746, August 2025.  
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
+Contribution: Resource management (PI of project), mentorship of team, conceptualization, writing, and methodology
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+- [pdf](pdfs/ching_JCP_pep.pdf) E. J. Ching, **R. F. Johnson**, A. D. Kercher, “Conservative, pressure-equilibrium-preserving discontinuous Galerkin method for compressible, multicomponent flows,” arXiv preprint arXiv:2501.12532, 2025.  Under review.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+Contribution: Resource management (PI of project), mentorship of team members, conceptualization, and  methodology
 
-## Using Docker
+- [pdf](pdfs/debo_oppdiff.pdf) R. DeBoskey, C. Geipel, D. Kessler, B. Bojko, B. Fisher, **R. F. Johnson**, V. Narayanaswamy, “Numerical and experimental investigation of flame dynamics in opposed-flow solid fuel burner,” Combustion and Flame, vol. 273, p. 113960, March 2025, Elsevier.
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+Contribution: Methodology, mentorship of select team members, and model development
 
-You can build and execute the container by running the following command in the repository:
+- [pdf](pdfs/ching_INJF_super.pdf) E. J. Ching, **R. F. Johnson**, “Conservative discontinuous Galerkin method for supercritical, real-fluid flows,” arXiv preprint arXiv:2410.13810, 2024.  
 
-```bash
-chmod -R 777 .
-docker compose up
-```
+Contribution: Resource management (PI of project), conceptualization, and methodology
 
-You should now be able to access the website from `localhost:4000`.
+- [pdf](pdfs/ching_ODE.pdf) E. J. Ching, **R. F. Johnson**, “Effect of ozone sensitization on the reflection patterns and stabilization of standing detonation waves induced by curved ramps,” arXiv preprint arXiv:2410.13845, February 2024.  Under review.
 
-### Using the DevContainer in VS Code
+Contribution: Resource management (PI of project), conceptualization, and methodology
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+- [pdf](pdfs/ching_part_1.pdf) E. J. Ching, **R. F. Johnson**, A. D. Kercher, “Positivity-preserving and entropy-bounded discontinuous Galerkin method for the chemically reacting, compressible Euler equations. Part I: One dimension,” Journal of Computational Physics, March 2023.
 
-# Maintenance
+Contribution: Resource management (PI of project), conceptualization, writing, and methodology
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+- [pdf](pdfs/ching_part_2.pdf) E. J. Ching, **R. F. Johnson**, A. D. Kercher, “Positivity-preserving and entropy-bounded discontinuous Galerkin method for the chemically reacting, compressible Euler equations. Part II: Multiple dimensions,” Journal of Computational Physics, March 2023.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+Contribution: Resource management (PI of project), conceptualization, writing, and methodology
 
-## Bugfixes and enhancements
+- (Limited Distribution Peer Review) Kessler, D.A., et al. (including **R. F. Johnson**) (2023). "High-performance computing for hypersonic simulations: Progress and challenges." Journal of DoD Research and Engineering, Vol. 6, pp. 65-77.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+Contribution: methodology and conceptualization
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- [pdf](pdfs/geipel_proci.pdf) Geipel, C.M., Bojko, B.T., Pfutzner, C.J., Fisher, B.T., and **Johnson, R.F.**, “Regression of solid polymer fuel strands in opposed-flow combustion with gaseous oxidizer” Sept 1st 2022,  J. Proceedings of the Combustion Institute, 
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+Contribution: Conceptualization, writing, and methodology
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+- [pdf](pdfs/rising_flame_vortex.pdf) C.J. Rising, G.B. Goodwin, **R.F. Johnson**, D.A. Kessler, J. Sosa, M. Thornton, K.A. Ahmed, “Numerical investigation of turbulent flame-vortex interaction in premixed cavity stabilized flames,” Aug 1st 2022, Aerospace Science and Technology, 
+
+Contribution: Conceptualization, writing, and methodology
+
+- [pdf](pdfs/morales_pressure_gradient.pdf) M.R. Thornton, A.J. Morales, D.M Smerina, C.J. Rising, J. Sosa, **R.F. Johnson**, D.A. Kessler, G.B. Goodwin, K.A. Ahmed, “Mean pressure gradient effects on the performance of cavity stabilized flames. Aerospace Science and Technology ” Aug 1st 2022, Aerospace Science and Technology
+
+Contribution: Conceptualization, writing, and methodology
+
+- [pdf](pdfs/joh_fully_conservative.pdf) **Johnson, Ryan F.** and Kercher, Andrew D.; " A Conservative Discontinuous Galerkin Discretization for the Chemically Reacting Navier-Stokes Equations"; Journal of Computational Physics, 2020 
+
+Contribution: Lead author, conceptualization, writing, and methodology
+
+- [pdf](pdfs/joh_flat_plate.pdf) **Johnson, Ryan Frederick**, Chelliah, Harsha Kumar; "Numerical simulation of two-dimensional flow over a heated carbon surface with coupled heterogeneous and homogeneous reactions"; Combustion Theory and Modelling, 2017 
+
+Contribution: Lead author, conceptualization, writing, methodology, and model development
+
+- [pdf](pdfs/viswanath_nozzle.pdf) Viswanath, Kamal, **Johnson, Ryan**, Corrigan, Andrew, Kailasanath, K, Mora, Pablo, Baier, Florian, and Gutmark, Ephraim; "Flow Statistics and Noise of Ideally Expanded Supersonic Rectangular and Circular Jets"; AIAA Journal, 2017
+
+Contribution: Conceptualization, writing, methodology, and model development
+ 
+- [pdf](pdfs/Joh_CF.pdf) **Johnson, RF**, VanDine, AC, Esposito, GL, Chelliah, HK; "On the Axisymmetric Counterflow Flame Simulations: Is There an Optimal Nozzle Diameter and Separation Distance to Apply Quasi One-Dimensional Theory?"; Combustion Science and Technology, 2015 
+
+Contribution: Lead author, conceptualization, writing, methodology, and model development
