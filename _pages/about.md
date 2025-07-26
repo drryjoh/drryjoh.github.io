@@ -30,7 +30,9 @@ Contribution: Resource management (PI of project), mentorship of team, conceptua
 
 - [pdf](pdfs/ching_JCP_pep.pdf) E. J. Ching, **R. F. Johnson**, A. D. Kercher, “Conservative, pressure-equilibrium-preserving discontinuous Galerkin method for compressible, multicomponent flows,” arXiv preprint arXiv:2501.12532, 2025.  Under review.
 
-Contribution: Resource management (PI of project), mentorship of team members, conceptualization, and  methodology
+- [pdf](pdfs/debo_ramjet.pdf) Ryan DeBoskey, David A. Kessler, Brian Bojko, **Ryan F. Johnson**, Andrew Kercher, Eric Ching, and Venkateswaran Narayanaswamy “Development and Evaluation of Reduced Kinetics Models for 1,3-Butadiene–Air Combustion” Journal of Propulsion and Power
+
+Contribution: Methodology, mentorship of select team members, conceptualization, and model development
 
 - [pdf](pdfs/debo_oppdiff.pdf) R. DeBoskey, C. Geipel, D. Kessler, B. Bojko, B. Fisher, **R. F. Johnson**, V. Narayanaswamy, “Numerical and experimental investigation of flame dynamics in opposed-flow solid fuel burner,” Combustion and Flame, vol. 273, p. 113960, March 2025, Elsevier.
 
