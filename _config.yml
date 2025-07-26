@@ -23,9 +23,9 @@ repository               : "drryjoh/drryjoh.github.io"
 author:
   # Biographic information
   avatar           : "headshottwo.png"
-  name             : "Your Sidebar Name"
+  name             : "Ryan F. Johnson, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Propulsion Sceintist with Focus on CFD"
+  bio              : "Propulsion Sceintist with focus on computational physics"
   location         : "VA->DC->MD->CA"
   employer         : "US Naval Research Laboratory"
   uri              : # URL

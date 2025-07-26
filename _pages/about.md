@@ -90,5 +90,5 @@ My Publications
 Select Conference Proceedings
 ======
 
-- [pdf](pdfs/doug_rde.pdf) Douglas A. Schwer, Ryan F. Johnson and Ephraim Gutmark. "Simulations of an Experimental Centerbody-less Rotating Detonation Combustor," AIAA 2023-2564. AIAA SCITECH 2023 Forum. January 2023.
+- [pdf](pdfs/schwer_rde.pdf) Douglas A. Schwer, Ryan F. Johnson and Ephraim Gutmark. "Simulations of an Experimental Centerbody-less Rotating Detonation Combustor," AIAA 2023-2564. AIAA SCITECH 2023 Forum. January 2023.
     Contribution:  Methodology, model development, and co-authorship
