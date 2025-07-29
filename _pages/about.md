@@ -96,3 +96,7 @@ Select Conference Proceedings
 
 - [pdf](pdfs/schwer_rde.pdf) Douglas A. Schwer, Ryan F. Johnson and Ephraim Gutmark. "Simulations of an Experimental Centerbody-less Rotating Detonation Combustor," AIAA 2023-2564. AIAA SCITECH 2023 Forum. January 2023.
     Contribution:  Methodology, model development, and co-authorship
+    
+
+- [pdf](pdfs/sinan_TT.pdf) Sinan Demir, Ryan F. Johnson, Brian T. Bojko, Andrew Corrigan, David A. Kessler Pierson Guthrey, Jason Burmark, and Samuel Irving. "Three-Dimensional Compressible Chemically Reacting Computational Fluid Dynamics with Tensor Trains," AIAA SCITECH 2024 Forum. January 2023.
+    Contribution:  Resource management (PI of project), Methodology, model development, and co-authorship
