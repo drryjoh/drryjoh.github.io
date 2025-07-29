@@ -75,7 +75,7 @@ My Publications
 
     Contribution: Conceptualization, writing, and methodology
 
-- [pdf](pdfs/joh_fully_conservative.pdf) **Johnson, Ryan F.** and Kercher, Andrew D.; " A Conservative Discontinuous Galerkin Discretization for the Chemically Reacting Navier-Stokes Equations"; Journal of Computational Physics, 2020 
+- [pdf](pdfs/Joh_fully_conservative.pdf) **Johnson, Ryan F.** and Kercher, Andrew D.; " A Conservative Discontinuous Galerkin Discretization for the Chemically Reacting Navier-Stokes Equations"; Journal of Computational Physics, 2020 
 
     Contribution: Lead author, conceptualization, writing, and methodology
 
