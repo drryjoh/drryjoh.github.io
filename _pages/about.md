@@ -100,3 +100,4 @@ Select Conference Proceedings
 
 - [pdf](pdfs/sinan_TT.pdf) Sinan Demir, Ryan F. Johnson, Brian T. Bojko, Andrew Corrigan, David A. Kessler Pierson Guthrey, Jason Burmark, and Samuel Irving. "Three-Dimensional Compressible Chemically Reacting Computational Fluid Dynamics with Tensor Trains," AIAA SCITECH 2024 Forum. January 2023.
     Contribution:  Resource management (PI of project), Methodology, model development, and co-authorship
+- [pdf](pdfs/Joh_flameless.pdf) Ryan F. Johnson, Douglas A. Schwer, Andrew Kercher, Andrew T. Corrigan, Kailas Kailasanath, Ephraim J. Gutmark and David A. Kessler. "Flow Characteristics of a Recirculating Flameless Combustor Configuration," AIAA 2018-0136. 2018 AIAA Aerospace Sciences Meeting. January 2018.
