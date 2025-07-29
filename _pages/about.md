@@ -16,6 +16,10 @@ My Publications
 
     Contribution: Lead author, conceptualization, writing, and methodology
 
+- [pdf](pdfs/rising_jiscf.pdf) Cal Rising, Eric J. Ching, **Ryan F. Johnson**,“Simulation of Non-Premixed, Supersonic Combustion using the Discontinuous Galerkin Method on Fully Unstructured Grids” Physics of Fluids, in preparation Aug 2025
+
+    Contribution: Lead author, conceptualization, writing, and methodology
+
 - [pdf](pdfs/chemgen.pdf) Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Wendi Dong, Eric J. Ching, Kamal Viswanath, Hai Wang, **Ryan F. Johnson**, “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
 
     Contribution: Resource management (PI of project), mentorship of team, conceptualization, writing, and methodology
