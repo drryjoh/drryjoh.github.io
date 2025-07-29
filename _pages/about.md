@@ -103,6 +103,8 @@ Select Conference Proceedings
 
 - [pdf](pdfs/bojko_FPV.pdf)  Brian T. Bojko, Ryan F. Johnson, and David A. Kessler "DEVELOPMENT OF A FLAMELET PROGRESS VARIABLE APPROACH FOR USE IN A FULLY CONSERVATIVE DISCONTINUOUS GALERKIN NAVIER-STOKES SOLVER" 2022-0002KB June 2022 JANNAF
 
+- [pdf](pdfs/kercher_adjoint.pdf)  Andrew D. Kercher, Andrew Corrigan David A. Kessler, Ryan F. Johnson, and David R. Mott "Adjoint Consistency of Spacetime Discontinuous Galerkin Discretizations for Incompressible Flows" AIAA Aviation forum June 2016, Washington DC 46th AIAA Fluid Dynamics Conference
+
 Memorandums
 ======
 
