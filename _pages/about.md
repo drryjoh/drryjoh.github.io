@@ -20,9 +20,13 @@ My Publications
 
     Contribution: Lead author, conceptualization, writing, and methodology
 
-- [pdf](pdfs/chemgen.pdf) Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Wendi Dong, Eric J. Ching, Kamal Viswanath, Hai Wang, **Ryan F. Johnson**, “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
+- [pdf](pdfs/CodeJeNN.pdf) Jay Arcities, Joshua E. Lipman, Ethan S. Genter, Wendi Dong, Eric J. Ching, Kamal Viswanath, Hai Wang, **Ryan F. Johnson**, “CodeJeNN: Imbedding Inference for Computational Physics” Software X, under review August, 2025
 
     Contribution: Resource management (PI of project), mentorship of team, conceptualization, writing, and methodology
+
+- [pdf](pdfs/debo_ramjet2.pdf) Ryan DeBoskey, David A. Kessler, Brian Bojko, **Ryan F. Johnson**, Gabriel Goodwin, and Venkateswaran Narayanaswamy “Flame Structures in a Model Solid Fuel Ramjet with Increasing Reynolds Numbers,” J. Propuls. Power, In Press, Oct. 2025 
+
+    Contribution: Methodology, mentorship of select team members, conceptualization, and model development
 
 - [pdf](pdfs/dong_ffcm2.pdf)Yue Zhang, Wendi Dong, Nobilli Andrea, **Ryan F. Johnson**, Gregory P. Smith, Hai Wang,  “Foundational Fuel Chemistry Model 2 — Can data assimilation yield useful insights in reaction rate constants?” Combustion and Flame, under review August, 2025
 
